@@ -29,6 +29,6 @@ function updatePlaylist (playlist, artistName, songTitle) {
   return playlist
 }
 
-updatePlaylist({},'Bruce','Love Me')
+updatePlaylist(playlist,'Bruce','Love Me')
 
 console.log(playlist)
