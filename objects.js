@@ -23,6 +23,3 @@ meals.breakfast = 'cereal'
 console.log(meals)
 
 var playlist = { artistName : 'songTitle'};
-
-
-
