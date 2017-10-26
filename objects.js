@@ -18,4 +18,6 @@ meals['second breakfast'] = 'pancakes'
 var sweetMeal = 'dessert'
 meals[sweetMeal] = 'cake'
 
+meals.breakfast = 'cereal'
+
 console.log(meals)
