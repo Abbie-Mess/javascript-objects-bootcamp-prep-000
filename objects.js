@@ -23,11 +23,12 @@ meals.breakfast = 'cereal'
 //console.log(meals)
 
 var playlist = { artistName : 'songTitle'};
-var artistName = 'Bruce'
-var songTitle = "All on A Summer's Night"
+
 function updatePlaylist (playlist, artistName, songTitle) {
   playlist.artistName = 'songTitle';
   return playlist
 }
+
+updatePlaylist({},'Bruce','Love Me')
 
 console.log(playlist)
